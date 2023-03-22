@@ -6,7 +6,7 @@ Data Source: [Japan - Subnational Administrative Boundaries](https://data.humdat
 
 This project includes data (description). The project does the following: scrapes the web to pull in data table of Japanese prefectures; modifies and drops columns from the scraped data; uses a (something) to assign values to a new column (visit history); exports the final table to .csv for ease of import into Tableau.
 
-After the data is scraped, cleaned and exported, the dataset is imported into Tableau Public. The final project is available at [NAME] (link).
+After the data is scraped, cleaned and exported, the dataset is imported into Tableau Public. The final project is available [here] (https://public.tableau.com/app/profile/elfbread/viz/VisitedPrefecturesofJapan/Sheet2).
 
 ## Start-up instructions
 
