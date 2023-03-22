@@ -2,7 +2,7 @@
 
 Python and Tableau project to display travel history while living in Japan (2022 - present). 
 
-Data Source:
+Data Source: [Japan - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-jpn?) - The Humanitarian Data Exchange, OCHA Regional Office for Asia and the Pacific (ROAP)
 
 This project includes data (description). The project does the following: scrapes the web to pull in data table of Japanese prefectures; modifies and drops columns from the scraped data; uses a (something) to assign values to a new column (visit history); exports the final table to .csv for ease of import into Tableau.
 
